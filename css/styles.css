@@ -9,7 +9,6 @@ body{
 .top-container{
     background-color: #E4F9F5;
     position: relative;
-    font-family: ;
 }
 
 h1{
@@ -19,16 +18,12 @@ h1{
     font-family: 'Sacramento', cursive;
     font-size: 562.5%;
     color: #66BFBF;
-    l
 }
 .mid-container{
 
 }
 .bottom-container{
 
-}
-p{
-    margin-bottom: 0%;
 }
 .cloud-2{
     position: absolute;
@@ -44,7 +39,7 @@ h2{
     font-family: 'Montserrat', sans-serif;
     font-size: 1.5rem;
     color: #66BFBF;
-    font-weight: normal;
+
 }
 h3, a{
     color: #11999E;
